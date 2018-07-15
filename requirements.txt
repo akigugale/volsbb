@@ -1,0 +1,4 @@
+py2app==0.14
+pyobjc==4.2.1
+requests==2.19.1
+rumps==0.2.2
